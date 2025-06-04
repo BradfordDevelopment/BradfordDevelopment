@@ -1,8 +1,8 @@
-# 🏢 BRadford
+# 🏢 Bradford
 
 **Custom software solutions and ready-to-use digital products built to grow with your business.**
 
-BRadford is a software development company focused on delivering efficient, scalable, and tailor-made technology solutions. We specialize in both **custom software development** and the creation of **pre-designed software products** that can be quickly implemented and adapted to your needs.
+Bradford is a software development company focused on delivering efficient, scalable, and tailor-made technology solutions. We specialize in both **custom software development** and the creation of **pre-designed software products** that can be quickly implemented and adapted to your needs.
 
 ---
 
